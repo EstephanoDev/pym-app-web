@@ -1,0 +1,1 @@
+export type ModalType = 'cardModal' | 'createForm' | 'editForm'
